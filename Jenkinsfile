@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     IMAGE_NAME = 'leoniki0608/prak-CC-todolist-main'              // Ganti 'awanmh' dengan username Docker Hub kalian
-    REGISTRY_CREDENTIALS = 'dockerhub-credentials2'
+    REGISTRY_CREDENTIALS = 'dockerhub-credentialsK'
   }
 
   stages {
